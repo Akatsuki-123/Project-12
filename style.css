@@ -23,17 +23,17 @@ nav{
 }
 
 .logo{
-    flex: 1;
+    flex: 0.8;
     justify-content: flex-start;
     margin: 30px 60px;
 }
 
 .logo>img{
-    width: 15%;
+    width: 100px;
 }
 
 .list{
-    flex: 0.7;
+    flex: 0.8;
     justify-content: flex-start;
     display: flex;
     flex-direction: row;
@@ -50,7 +50,7 @@ nav{
 }
 
 .btn{
-    flex: 0.3;
+    flex: 0.4;
     justify-content: flex-end;
     margin-top: 30px;
 }
