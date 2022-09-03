@@ -115,6 +115,10 @@ nav{
     font-size: 25px;
 }
 
+.email .fa-envelop{
+    margin-left: 10px;
+}
+
 .email>input{
     width: 90%;
     padding: 20px;
@@ -248,8 +252,8 @@ nav{
 }
 
 .body2-right-section img{
-    width: 600px;
-    height: 390px;
+    width: 500px;
+    height: 300px;
 }
 
 .body2-left-section button{
@@ -271,15 +275,15 @@ nav{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 70px;
+    margin-top: 50px;
     align-items: center;
     margin-right: 200px;
     margin-left: 200px;
 }
 
 .body3-left-section img{
-    width: 550px;
-    height: 400px;
+    width: 500px;
+    height: 300px;
 }
 
 .body3-right-section h2{
@@ -334,8 +338,8 @@ nav{
 }
 
 .body4-right-section img{
-    width: 600px;
-    height: 390px;
+    width: 500px;
+    height: 300px;
 }
 
 .body4-left-section button{
@@ -390,8 +394,8 @@ nav{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-right: 220px;
-    margin-left: 220px;
+    margin-right: 180px;
+    margin-left: 180px;
 }
 
 .team li{
@@ -400,7 +404,7 @@ nav{
 
 .team-items img{
     width: 350px;
-    height: 500px;
+    height: 470px;
     cursor: pointer;
 }
 
